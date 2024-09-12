@@ -1,0 +1,7 @@
+Driver_manager\DriverManager.class
+Pages\ATOCommunicationPage.class
+com\asis\MainClass.class
+Pages\ATOSelectingDatePage.class
+Pages\MoveRecentFiles.class
+Pages\ATOLoginPage.class
+Pages\CreateNewFilePage.class
